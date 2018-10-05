@@ -1,3 +1,3 @@
 This is my website.
 
-It is currently a work-in-progress.
+It is currently under construction.
